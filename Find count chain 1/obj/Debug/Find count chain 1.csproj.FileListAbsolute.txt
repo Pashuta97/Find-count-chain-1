@@ -1,0 +1,7 @@
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find count chain 1\Find count chain 1\bin\Debug\Find count chain 1.exe.config
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find count chain 1\Find count chain 1\bin\Debug\Find count chain 1.exe
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find count chain 1\Find count chain 1\bin\Debug\Find count chain 1.pdb
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find count chain 1\Find count chain 1\obj\Debug\Find count chain 1.csprojResolveAssemblyReference.cache
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find count chain 1\Find count chain 1\obj\Debug\Find count chain 1.csproj.CoreCompileInputs.cache
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find count chain 1\Find count chain 1\obj\Debug\Find count chain 1.exe
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find count chain 1\Find count chain 1\obj\Debug\Find count chain 1.pdb

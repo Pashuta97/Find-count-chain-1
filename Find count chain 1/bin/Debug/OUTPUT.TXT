@@ -1,0 +1,1 @@
+Max count chain of 1 = 6
